@@ -13,7 +13,7 @@ public class ArrayMax {
         int min = Integer.MAX_VALUE;
         
       // Цикл заполняет массив 
-        for (int i = 0;i<setarray;i++){
+        for (int i = 0;i<setArray;i++){
         array[i]=Integer.parseInt(br.readLine());}
         
       // Цикл поиска в массиве максимального и минимального числа
